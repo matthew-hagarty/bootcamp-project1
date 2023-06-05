@@ -1,0 +1,13 @@
+YouTube, being a prominent platform for video sharing and discovery globally, offers valuable insights into popular and engaging content through its trending page. In line with this, our proposal aims to conduct an in-depth analysis of trending YouTube videos, focusing specifically on France (EU), US (NA), and Japan (Asia). By examining the similarities and differences in trending videos across these regions, we can gain a comprehensive understanding of the unique factors influencing viewership patterns and content preferences.
+
+Based on our analysis of YouTube trending videos, we have found that the most viewed category in the US, based on average view count, is Auto & Vehicles. However, for Japan and France, the dominant category is Music. Let's explore the possible reasons behind this trend. 
+
+In the case of the US, the shift in the top category for average view counts from Auto & Vehicles in 2020 and 2021 to Science & Technology in 2022 could be attributed to various factors. It could be influenced by the release of innovative technological products, advancements in science-related content, or a surge in interest in topics related to science and technology among viewers during that year. 
+
+Moving on to Japan, the consistent dominance of the Music category in terms of average view count across all three years indicates a strong preference for music-related content among Japanese viewers. Music holds a significant cultural significance in Japan, and the country has a rich music industry with a wide range of popular artists and genres. The popularity of music videos, performances, and related content on YouTube reflects the strong connection between Japanese viewers and music. 
+
+Similarly, in France, the parallel trend of Music being the dominant category suggests a similar cultural affinity for music among French viewers. The French music scene is known for its diverse range of genres and talented artists, which likely contributes to the high viewership of music-related videos on YouTube. 
+
+In both Japan and France, the enduring popularity of the Music category despite any fluctuations in average view counts indicates a strong and dedicated audience base for music content. This could be attributed to factors such as cultural preferences, the influence of local music industry trends, and the emotional connection that music often evokes. 
+
+Overall, the dominance of the Music category in Japan and France, and the presence of Auto & Vehicles as the top category in the US, can be understood by considering cultural factors, viewer preferences, and industry trends within each respective country.
