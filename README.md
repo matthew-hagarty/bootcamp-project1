@@ -4,15 +4,51 @@ Dataset we used for this project: https://www.kaggle.com/datasets/rsrishav/youtu
 
 We couldn't upload the files themselves because it was far too large for github's upload limit.
 
-What are the popularity rankings of video genres for 2020, 2021, and 2022? Have they changed?
+# Question 1: What are the popularity rankings of video genres for 2020, 2021, and 2022? Have they changed?
+
+
+## Japan:
+The analysis of average view counts for different categories over the three-year period reveals interesting trends. The bar graphs clearly illustrate that the Music category consistently attracts the highest average view counts compared to other categories. This indicates its significant popularity among Japanese viewers, making it the preferred choice for a larger audience. 
+Examining the line graph adds another dimension to our understanding. While the Music category maintains its position as the most viewed category throughout the three years, there is a noticeable decline in average view count from 2021 to 2022. This decline could suggest a potential change in viewer preferences or external factors impacting viewership trends. Despite the decrease in average view count from 2021 to 2022, the Music category still maintains a substantial lead over other categories. This reinforces its enduring popularity and strong viewer engagement with music-related content on YouTube. 
+In summary, the combination of bar graphs and a line graph enables us to analyze and compare average view counts across different categories over time. It highlights the consistent dominance of the Music category and provides insights into potential shifts in viewership patterns. This information is valuable for content creators and marketers in understanding audience preferences and tailoring their strategies accordingly.
+
+## France:
+For France, it’s kind of like Japan, Music maintains a substantial lead in average view counts for each individual year compared to the other categories despite the dip in 2021.
+ In addition to the dominance of Music, we also notice notable shifts in other categories over the years. One intriguing pattern is the significant drop in average view counts for the Gaming category from 2020 to 2021. This decline could be influenced by various factors, such as changes in popular gaming trends, shifts in viewer interests, or the emergence of new content genres competing for attention.
+On the other hand, the Film category exhibits a remarkable increase in average view counts from 2021 to 2022. This rise suggests a growing interest in film-related content among French viewers during that period. It could be attributed to several factors, including the release of highly anticipated films, the impact of influential filmmakers, or the rising popularity of movie-related discussions and reviews on YouTube.
+
+
+## US:
 The US category rankings did not go how I expected them to. The Average Views increase in 2021 from 2020 made sense given how much of the US was shut down for most of it, YouTube would be an easy assumption as a pastime during quarantine. What surprised me most was that the biggest category shift didn’t happen until 2022 and it went from Autos and Vehicles being the highest watched to Science and Technology. I would have guessed before seeing this that Science and Technology or News and Politics would be toward the top in those years due to covid and the particularly incendiary election cycle. And as you can see, by 2022 News and Politics and Science and Tech both skyrocketed compared to Autos from the two years prior.
 
-What are the most popular genres per country (Throughout 2020 to 2022)?
+
+
+# Question 2: What are the most popular genres per country (Throughout 2020 to 2022)?
+
+## Japan:
+For Japan, across the years 2020-2022, we can gain valuable insights from the pie chart. It reveals the top five most popular categories of YouTube videos uploaded on the trending page. Entertainment emerges as the frontrunner with (33.1%), followed by gaming, people and blogs, music, and sports. On the other hand, when examining the average views, likes, and comments by category from 2020 to 2022, an intriguing pattern emerges. Despite being the 4th most frequently uploaded category, Music maintains its dominance in average view count, likes and comments. This defines its immense popularity among Japanese viewers, further solidifying its status as a preferred choice.
+
+## France:
 The most popular genre in France is by far Music. It dominates every engagement metric and is the obvious most popular genre so I’ll just chat about the others. As we saw in question 1, gaming started off as a big favorite but then was overtaken by others in the subsequent years. It’s still near the top of the engagement metrics despite this severe drop off. Film, Entertainment, and Sports are very close to each other following Music but interestingly only Entertainment stays towards the top in Likes and Comments while the other two fall behind. This relationship between views and the other engagement metrics is different in France than it is the other two countries.
 
-The most popular genres in the US across the 3 years we analyzed were Autos and Vehicles first, as I already mentioned, followed by People and Blogs and Travel and Events. Engagement data is very much in line with what one would assume. The view count does appear to correlate very closely with both Likes and Comments. I found this surprising because I would’ve assumed that topics that are generally more divisive would have a higher average engagement relative to their views but this doesn’t appear to be the case. 
 
-Similarities and Differences:
-Our primary question was what are the key differences between what trending videos on YouTube between Japan, France, and the US?
-The first major similarity is how much more popular Music is in both Japan and France than every other genre. While these two pages were dominated by Music, the US data shows us much more varied popularity. Japan and France also maintained the status quo across all 3 years while the US saw a major shift in what content was desired from YouTube in 2022. 
-Japan and the US both showed a strong correlation between views and the other two engagement metrics we analyzed on the top genres. France had much more variation. 
+## US: 
+The most popular genres in the US across the 3 years we analyzed were Autos and Vehicles first, as I already mentioned, followed by People and Blogs and Travel and Events. Engagement data is very much in line with what one would assume. The view count does appear to correlate very closely with both Likes and Comments. I found this surprising because I would’ve assumed that topics that are generally more divisive would have a higher average engagement relative to their views but this doesn’t appear to be the case.
+
+
+# Main Question: What are the key differences between what trending videos genres on YouTube between Japan, France, and the US?
+
+## Analysis: 
+YouTube, being a prominent platform for video sharing and discovery globally, offers valuable insights into popular and engaging content through its trending page. In line with this, our proposal aims to conduct an in-depth analysis of trending YouTube videos, focusing specifically on France (EU), US (NA), and Japan (Asia). By examining the similarities and differences in trending videos across these regions, we can gain a comprehensive understanding of the unique factors influencing viewership patterns and content preferences.
+
+Based on our analysis of YouTube trending videos, we have found that the most viewed category in the US, based on average view count, is Auto & Vehicles. However, for Japan and France, the dominant category is Music. Let's explore the possible reasons behind this trend. 
+
+In the case of the US, the shift in the top category for average view counts from Auto & Vehicles in 2020 and 2021 to Science & Technology in 2022 could be attributed to various factors. It could be influenced by the release of innovative technological products, advancements in science-related content, or a surge in interest in topics related to science and technology among viewers during that year. 
+
+Moving on to Japan, the consistent dominance of the Music category in terms of average view count across all three years indicates a strong preference for music-related content among Japanese viewers. Music holds a significant cultural significance in Japan, and the country has a rich music industry with a wide range of popular artists and genres. The popularity of music videos, performances, and related content on YouTube reflects the strong connection between Japanese viewers and music. 
+
+Similarly, in France, the parallel trend of Music being the dominant category suggests a similar cultural affinity for music among French viewers. The French music scene is known for its diverse range of genres and talented artists, which likely contributes to the high viewership of music-related videos on YouTube. 
+
+In both Japan and France, the enduring popularity of the Music category despite any fluctuations in average view counts indicates a strong and dedicated audience base for music content. This could be attributed to factors such as cultural preferences, the influence of local music industry trends, and the emotional connection that music often evokes. 
+
+Overall, the dominance of the Music category in Japan and France, and the presence of Auto & Vehicles as the top category in the US, can be understood by considering cultural factors, viewer preferences, and industry trends within each respective country.
